@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Skills</h1>
+    <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,10 +21,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: cauaberrnardino@gmail.com">
-       <img width="30" src="llBernardino-main/gmail.svg">
+       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/cau%C3%A3-bernardino-lima-73413b22a/">
-      <img width="25" src="llBernardino-main/linkedin.svg">
+      <img width="25" src="linkedin.svg">
     </a>
 </div>
   
