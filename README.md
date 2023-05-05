@@ -23,7 +23,7 @@
     <a href = "mailto: cauaberrnardino@gmail.com">
       <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/cau%C3%A3-bernardino-lima-73413b22a/">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
