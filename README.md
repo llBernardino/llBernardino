@@ -21,10 +21,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: cauaberrnardino@gmail.com">
-       <img width="30" src="gmail.svg">
+       <img width="30" src="llBernardino-main/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/cau%C3%A3-bernardino-lima-73413b22a/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="llBernardino-main/linkedin.svg">
     </a>
 </div>
   
